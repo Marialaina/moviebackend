@@ -1,24 +1,27 @@
-# README
+# MOVIE TRACKER API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## LINK TO THE API :
 
-Things you may want to cover:
+https://movieapimp.herokuapp.com/movies
 
-* Ruby version
+## TECHNOLOGIES USED :
 
-* System dependencies
+* Ruby
+* Ruby on Rails
+* Postgresql
+* Postman
+* Heroku
 
-* Configuration
 
-* Database creation
+## PROJECT SUMMARY :
 
-* Database initialization
+Created an api that allows a user to save movies they would like to watch. It's a full CRUD api, so a user can update, delete and create a new movie.
 
-* How to run the test suite
+## APPROACH TAKEN :
 
-* Services (job queues, cache servers, search engines, etc.)
+Created the api in rails, since only the data of the API was presented and there was no user functionality, the api was tested on Postman. Postman gave us the oppurtunity to test all CRUD functionality.
 
-* Deployment instructions
+## DIFFICULTIES
 
-* ...
+- Not knowing I can name my table and a column the same name.
+
